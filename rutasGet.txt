@@ -3,5 +3,3 @@ https://wikipedia/login?email=far.core.rr@mail.com&password=farmod123/
 https://facebook/inicioSesion?correo=john_doe@mail.com&pass=122334567/logIn/
 https://instacrem/inicioSesion?correo=admin@mail.com&key=admin1/exit/
 https://gmail/inicioSesion?cuenta=root@mail.com&pass=root/true/
-Captura de correo = [a-z]+@[a-z]+.[a-z]+
-captura de contraseña = &["pass", "contrasena", "con", "password", "key"]{1,10}=([a-zA-Z0-9_*"#$])+
